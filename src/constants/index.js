@@ -109,6 +109,26 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Developer",
+      company_name: "Matrox",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "March 2023 - Present",
+      points: [
+        "Software Development"
+      ],
+    },
+    {
+      title: "Developer Intern",
+      company_name: "Shopify",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "May 2022 - August 2022",
+      points: [
+        "Software development internship"
+      ],
+    },
   ];
   
   const testimonials = [
