@@ -5,7 +5,7 @@ module.exports = {
     theme: {
       extend: {
         colors: {
-          primary: "#30cfd0",
+          primary: "#11998e",
           secondary: "#aaa6c3",
           tertiary: "#151030",
           "black-100": "#100d25",
@@ -19,7 +19,7 @@ module.exports = {
           xs: "450px",
         },
         backgroundImage: {
-          "hero-pattern": "linear-gradient(to top, #30cfd0 0%, #330867 100%)",
+          "hero-pattern": "linear-gradient(to top, #11998e 0%, #330867 100%)",
         },
       },
     },
