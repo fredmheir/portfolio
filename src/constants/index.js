@@ -1,8 +1,8 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
+    fullstack,
+    languages,
+    databases,
+    graphics,
     javascript,
     typescript,
     html,
@@ -36,20 +36,20 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "C++, Java, Ruby, Python",
+      icon: languages,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Video & Graphics Developer",
+      icon: graphics,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "Full Stack Web Developement",
+      icon: fullstack,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Databases",
+      icon: databases,
     },
   ];
   
