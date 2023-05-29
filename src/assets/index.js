@@ -22,6 +22,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import shopify from "./company/shopify.png";
+import matrox from "./company/matrox.png";
+import desjardins from "./company/desjardins.png";
 
 export {
   logo,
@@ -46,4 +48,6 @@ export {
   typescript,
   threejs,
   shopify,
+  matrox,
+  desjardins,
 };

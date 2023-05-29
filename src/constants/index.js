@@ -15,6 +15,9 @@ import {
     git,
     figma,
     docker,
+    meta,
+    matrox,
+    desjardins,
     shopify,
     threejs,
   } from "../assets";
@@ -112,7 +115,7 @@ import {
     {
       title: "Developer",
       company_name: "Matrox",
-      icon: starbucks,
+      icon: matrox,
       iconBg: "#383E56",
       date: "March 2023 - Present",
       points: [
