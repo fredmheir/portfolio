@@ -21,9 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import shopify from "./company/shopify.png";
-import matrox from "./company/matrox.png";
+import deloitte from "./company/deloitte.png";
 import desjardins from "./company/desjardins.png";
+import matrox from "./company/matrox.png";
+import shopify from "./company/shopify.png";
 
 export {
   logo,
@@ -47,7 +48,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  shopify,
-  matrox,
+  deloitte,
   desjardins,
+  matrox,
+  shopify,
 };
