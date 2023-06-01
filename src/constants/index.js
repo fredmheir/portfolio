@@ -141,7 +141,7 @@ import {
     },
     {
       title: "Senior & Staff Accountant",
-      company_name: "Desjardins",
+      company_name: "Deloitte",
       icon: deloitte,
       iconBg: "#e6e9ed",
       date: "Jan 2018 - August 2020",
