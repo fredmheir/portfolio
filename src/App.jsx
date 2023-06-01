@@ -8,9 +8,9 @@ const App = () => {
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
           <Navbar />
           <Hero />
+          <About />
+          <Experience />
         </div>
-        <About />
-        <Experience />
         <Tech />
         <Works />
         <Feedbacks />
