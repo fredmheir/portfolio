@@ -27,29 +27,29 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Experience",
     },
     {
-      id: "contact",
-      title: "Contact",
+      id: "tech",
+      title: "Technologies",
     },
   ];
   
   const services = [
     {
-      title: "C++, Java, Ruby, Python",
+      title: "Video & Graphics Software Development",
       icon: languages,
     },
     {
-      title: "Video & Graphics Developer",
+      title: "Full Stack Software Development",
       icon: graphics,
     },
     {
-      title: "Full Stack Web Developement",
+      title: "Computer Science Degree",
       icon: fullstack,
     },
     {
-      title: "Databases",
+      title: "CPA",
       icon: databases,
     },
   ];
