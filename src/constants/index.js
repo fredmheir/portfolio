@@ -17,7 +17,10 @@ import {
     desjardins,
     matrox,
     shopify,
-    threejs,
+    inventorytracker,
+    positivenews,
+    wiki,
+    search,
   } from "../assets";
   
   export const navLinks = [
@@ -157,6 +160,90 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Inventory Tracker",
+      description:
+        "Inventory tracking web service that provides the following information for each item stored in the inventory: name, quantity, and cost.",
+      tags: [
+        {
+          name: "java",
+          color: "text-white",
+        },
+        {
+          name: "javascript",
+          color: "text-white",
+        },
+        {
+          name: "postgresql",
+          color: "text-white",
+        },
+      ],
+      image: inventorytracker,
+      source_code_link: "https://github.com/fredmheir/inventorytracker",
+    },
+    {
+      name: "Positive News",
+      description:
+        "Web application displaying positive news, developped as part of McHacks Hackathon.",
+      tags: [
+        {
+          name: "python",
+          color: "text-white",
+        },
+        {
+          name: "javascript",
+          color: "text-white",
+        },
+        {
+          name: "flask",
+          color: "text-white",
+        },
+      ],
+      image: positivenews,
+      source_code_link: "https://github.com/lucmaxwell/McHacks-2021",
+    },
+    {
+      name: "Wiki",
+      description:
+        "A Wikipedia-like encyclopedia, where users can create and edit articles using Markdown syntax",
+      tags: [
+        {
+          name: "python",
+          color: "text-white",
+        },
+        {
+          name: "html",
+          color: "text-white",
+        },
+        {
+          name: "css",
+          color: "text-white",
+        },
+      ],
+      image: wiki,
+      source_code_link: "https://github.com/fredmheir/wiki",
+    },
+    {
+      name: "Search",
+      description:
+        "Search is a front-end for Google Search, Google Image Search, and Google Advanced Search. Its intent is to reproduce Google Search functionalities.",
+      tags: [
+        {
+          name: "html",
+          color: "text-white",
+        },
+        {
+          name: "css",
+          color: "text-white",
+        },
+        {
+          name: "VSCode",
+          color: "text-white",
+        },
+      ],
+      image: search,
+      source_code_link: "https://github.com/fredmheir/search",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

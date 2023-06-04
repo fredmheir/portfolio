@@ -23,6 +23,11 @@ import desjardins from "./company/desjardins.png";
 import matrox from "./company/matrox.png";
 import shopify from "./company/shopify.png";
 
+import inventorytracker from "./inventorytracker.png";
+import positivenews from "./positivenews.png";
+import wiki from "./wiki.png";
+import search from "./search.png";
+
 export {
   logo,
   languages,
@@ -46,4 +51,8 @@ export {
   desjardins,
   matrox,
   shopify,
+  inventorytracker,
+  positivenews,
+  wiki,
+  search,
 };
