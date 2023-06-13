@@ -171,15 +171,15 @@ import {
       tags: [
         {
           name: "java",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "javascript",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "postgresql",
-          color: "text-white",
+          color: "text-black",
         },
       ],
       image: inventorytracker,
@@ -192,15 +192,15 @@ import {
       tags: [
         {
           name: "python",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "javascript",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "flask",
-          color: "text-white",
+          color: "text-black",
         },
       ],
       image: positivenews,
@@ -213,15 +213,15 @@ import {
       tags: [
         {
           name: "python",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "html",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "css",
-          color: "text-white",
+          color: "text-black",
         },
       ],
       image: wiki,
@@ -234,15 +234,15 @@ import {
       tags: [
         {
           name: "html",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "css",
-          color: "text-white",
+          color: "text-black",
         },
         {
           name: "VSCode",
-          color: "text-white",
+          color: "text-black",
         },
       ],
       image: search,
