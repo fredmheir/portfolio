@@ -18,6 +18,7 @@ import {
     matrox,
     shopify,
     inventorytracker,
+    portfolioProject,
     positivenews,
     wiki,
     search,
@@ -164,6 +165,39 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Portfolio Website",
+      description:
+        "Source code for this website.",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "text-black",
+        },
+        {
+          name: "React",
+          color: "text-black",
+        },
+        {
+          name: "Vite",
+          color: "text-black",
+        },
+        {
+          name: "ThreeJS",
+          color: "text-black",
+        },
+        {
+          name: "TailwindCSS",
+          color: "text-black",
+        },
+        {
+          name: "Framer-Motion",
+          color: "text-black",
+        },
+      ],
+      image: portfolioProject,
+      source_code_link: "https://github.com/fredmheir/portfolio",
+    },
     {
       name: "Inventory Tracker",
       description:

@@ -23,6 +23,7 @@ import desjardins from "./company/desjardins.png";
 import matrox from "./company/matrox.png";
 import shopify from "./company/shopify.png";
 
+import portfolioProject from "./portfolio.png"
 import inventorytracker from "./inventorytracker.png";
 import positivenews from "./positivenews.png";
 import wiki from "./wiki.png";
@@ -52,6 +53,7 @@ export {
   matrox,
   shopify,
   inventorytracker,
+  portfolioProject,
   positivenews,
   wiki,
   search,
